@@ -1,4 +1,10 @@
 # Docker
+
+### videos
+#### architecture | install | commands
+- https://www.youtube.com/watch?v=zJ6WbK9zFpI
+
+### hub
 where are all images stored for docker:
 - https://hub.docker.com/
 
