@@ -1,14 +1,14 @@
-#Docker
+# Docker
 where are all images stored for docker:
-https://hub.docker.com/
+- https://hub.docker.com/
 
-#Repo
+### Repo
 we have some repositories :
-balaparthacloud/new:latest
+- balaparthacloud/new:latest
 
-#Commands examples from in28minutes
+### Commands examples from in28minutes
 
-````
+```
   600  docker run in28min/todo-rest-api-h2:1.0.0.RELEASE
   650  docker run -p 5000:5000 in28min/todo-rest-api-h2:1.0.0.RELEASE
   651  clear
@@ -65,4 +65,4 @@ balaparthacloud/new:latest
   702  docker containers ls
   703  docker container ls
   704  docker container ls -a
-````
+```
